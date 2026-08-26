@@ -5,6 +5,12 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    QuickInstaller_com.unity.purchasing_installRecorded:
+      value: 2550581500
+      flags: 0
+    QuickInstaller_com.unity.services.levelplay_installRecorded:
+      value: 2550581500
+      flags: 0
     RecentlyUsedSceneGuid-0:
       value: 5050035151505d0a5a0c0e2145740f4445151c2b29717f677c284c36b3b8373d
       flags: 0
@@ -12,13 +18,13 @@ EditorUserSettings:
       value: 570456075203595f0f585f7749250c44154f4c79787c7033292b1967e6b8636a
       flags: 0
     RecentlyUsedSceneGuid-2:
-      value: 5b520d0503545b0d0c0c0a2715770748154f4d2c7d7d7e627a7d4a35b4e1646a
-      flags: 0
-    RecentlyUsedSceneGuid-3:
       value: 060801575557595d5a5f5d27417b0a4445154f7a78797f357d7a4d65b3b2366a
       flags: 0
-    RecentlyUsedSceneGuid-4:
+    RecentlyUsedSceneGuid-3:
       value: 060856505d0d0b0a0c5f0e27467a0a4442151b29757a7f3574701e64e1e46c6f
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5b520d0503545b0d0c0c0a2715770748154f4d2c7d7d7e627a7d4a35b4e1646a
       flags: 0
     lightmappingBakingProfile:
       value: 51

@@ -23,13 +23,13 @@ public class Session01_StudentExercise : MonoBehaviour
     
     [Header("=== STUDENT INFORMATION ===")]
     // TODO 1.1: Create a public string variable for your first name
-    // EXAMPLE: public string firstName = "John";
+    // public string firstName = "John";
     
     // TODO 1.2: Create a public string variable for your student ID
-    // EXAMPLE: public string studentID = "12345";
+    // public string studentID = "12345";
     
     // TODO 1.3: Create a public int variable for your age
-    // EXAMPLE: public int age = 20;
+    // public int age = 20;
     
     [Header("=== GAME CHARACTER STATS ===")]
     // TODO 2.1: Create public variables for a game character
